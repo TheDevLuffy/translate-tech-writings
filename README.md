@@ -2,6 +2,12 @@
 
 오역이나 더 좋은 번역은 PR로 부탁드립니다.
 
+## 각종 Engineering 블로그
+1. [넷플릭스 기술 블로그](https://netflixtechblog.com/)
+2. [핀터레스트 기술 블로그](https://medium.com/pinterest-engineering)
+3. [우버 기술블로그](https://eng.uber.com)
+4. [링크드인 기술블로그](https://engineering.linkedin.com/blog)
+
 ## 넷플릭스 기술 블로그
 
 * [바로가기](https://netflixtechblog.com/)
